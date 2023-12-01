@@ -1,6 +1,7 @@
 """
 Author: Jessica Avalos
-Description: This script facilitates downloading large files by managing the data transfer in segments
+Description: This script facilitates downloading large files by managing the data transfer in segments, ensuring that any interruptions
+in the download can be managed without starting over.
 """
 
 import requests
